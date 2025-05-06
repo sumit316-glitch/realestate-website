@@ -1,6 +1,7 @@
 {
-  "name": "my-caps",
+  "name": "realestate-website",
   "private": true,
+  "homepage": "https://sumit316-glitch.github.io/realestate-website",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
