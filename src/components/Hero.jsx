@@ -10,9 +10,8 @@ export default function Hero() {
     <img src={headerImg} alt="Featured House" />
     <div className="hero-content">
         <h1>
-          For Sale<br />
-          10A CAROLINE STREET,<br />
-          ABERFELDIE, VIC 3040
+          For Sale,<br />
+          Azamgarh 123
         </h1>
         <button className="details-btn">More Details</button>
       </div>

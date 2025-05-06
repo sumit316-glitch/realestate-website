@@ -8,14 +8,16 @@ export default function Navbar() {
         {/* <img src="/assets/logo.png" alt="logo" style={{ height: 38, marginRight: 8 }} /> */}
         EstateEase
       </div>
-      <nav>
+      <nav className="navbar-center">
         <a href="#">HOME</a>
         <a href="#">PROPERTY</a>
         <a href="#">TYPES</a>
         <a href="#">AGENTS</a>
-        {/* <a href="#">BLOG</a>
-        <a href="#">MEMBER AREA</a> */}
       </nav>
+      <div className="navbar-auth">
+    <a href="#" className="login">Login</a>
+    <a href="#" className="signup">SignUp</a>
+  </div>
     </header>
   );
 }
