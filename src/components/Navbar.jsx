@@ -5,8 +5,8 @@ export default function Navbar() {
   return (
     <header className="navbar">
       <div className="logo">
-        <img src="/assets/logo.png" alt="logo" style={{ height: 38, marginRight: 8 }} />
-        REAL-ESTATE
+        {/* <img src="/assets/logo.png" alt="logo" style={{ height: 38, marginRight: 8 }} /> */}
+        EstateEase
       </div>
       <nav>
         <a href="#">HOME</a>
